@@ -1,0 +1,39 @@
+html {
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+
+    margin: 0;
+    padding: 15px auto auto auto ;
+    color: #ff1c1c;
+    text-shadow: 3px 3px 1px black;
+}
+
+p, li {
+    font-size: 17px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    text-align: justify;
+}
+
+body {
+    width: 450px;
+    margin: 0 auto;
+    background-color: rgb(82, 82, 82);
+    padding: 20px 150px 0px 50px;
+    border: 5px solid rgb(255, 28, 12);
+}
+
+img {
+    /* max-width: 200px; */
+    max-height: 350px;
+    box-shadow: 7px 7px 4px black;
+
+    display: block;
+    margin: auto;
+}
